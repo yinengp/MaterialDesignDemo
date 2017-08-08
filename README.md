@@ -45,4 +45,3 @@ https://play.google.com/store/apps/details?id=com.eajy.materialdesigndemo
 
 _**- Designed by Eajy in China.**_
 
-This is my test！
